@@ -1,0 +1,2 @@
+# CoreShopInventoryInAngular
+Inventory Application 
